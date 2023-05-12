@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u+NFtViEVGM0n+7i7KawPTu4hnk+zAUQQZmkD2H04uY=",
+  "Source": "OpticartWebAPI",
+  "BasePath": "_content/OpticartWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
